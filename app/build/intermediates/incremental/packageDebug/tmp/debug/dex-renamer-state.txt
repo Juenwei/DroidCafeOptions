@@ -1,0 +1,4 @@
+#Tue Jul 14 17:22:00 SGT 2020
+base.0=C\:\\Users\\FORGE-15 I5\\.AndroidStudio4.0\\android-fundamentals-apps-v2-master\\DroidCafeOptions\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
